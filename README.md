@@ -1,6 +1,6 @@
 # 直飞练习刀『两仪』
 
-<img width="987" height="366" alt="image" src="https://github.com/user-attachments/assets/1c290f51-82c9-40be-a22c-25561161d178" />
+<img width="1038" height="343" alt="image" src="https://github.com/user-attachments/assets/dac796dd-c1a3-45bb-8a1c-3b1eea69634f" />
 
 ## 声明
 
@@ -14,7 +14,7 @@
 
 ## 成品数据
 
-- 本项目为用于直飞及近战练习的小刀设计，全长17cm，柄长10cm。
+- 本项目为用于直飞及近战练习的小刀设计，全长17cm，柄长9cm。
 
 ## 使用教程
 
