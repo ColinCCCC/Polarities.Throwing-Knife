@@ -10,7 +10,7 @@
 
 本项目为体育练习用品设计，请勿用于违反法律法规用途。
 
-制作成品**无需用到任何工业设计专业知识**，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/Jie.Hema-Chinese-Sword?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)进行制作。
+制作成品**无需用到任何工业设计专业知识**，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/Polarities.Throwing-Knife#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)进行制作。
 
 ## 成品数据
 
@@ -28,7 +28,7 @@
 
 *所需DXF/DWG文件及其对应厚度如下：*
 
-- 剑条【3mm】[blade.DXF](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/blade.DXF)
+- 刀条【3mm】[blade.DXF](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/blade.DXF)
 
 #### 手柄打印
 
@@ -38,8 +38,8 @@
 
 *所需STL文件如下：*
 
-- 剑柄（左半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl1.STL)
-- 剑柄（右半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl2.STL)
+- 刀柄（左半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl1.STL)
+- 刀柄（右半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl2.STL)
 
 #### 倒角与抛光
 
