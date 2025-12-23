@@ -38,8 +38,8 @@
 
 *所需STL文件如下：*
 
-- 刀柄（左半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl1.STL)
-- 刀柄（右半）[hdl.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl2.STL)
+- 刀柄（左半）[hdl1.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl1.STL)
+- 刀柄（右半）[hdl2.STL](https://github.com/ColinCCCC/Polarities.Throwing-Knife/blob/main/hdl2.STL)
 
 #### 倒角与抛光
 
